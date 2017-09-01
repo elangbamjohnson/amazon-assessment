@@ -9,7 +9,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "PatternMatching.hpp"
+#include "AmazonAssessment.hpp"
 //#include <algorithm>
 
 
@@ -23,7 +23,7 @@ int main(int argc, const char * argv[]) {
     vector<string> str;
     vector<string> pattern;
     
-    str = {"kiwi","apple","kiwi","orange"};
+    str = {"something","apple","kiwi","orange"};
     
     //pattern = {"mango","anything","apple"};
     

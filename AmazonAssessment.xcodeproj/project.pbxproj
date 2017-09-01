@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		39ADE58E1F55BBC900171063 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 39ADE58D1F55BBC900171063 /* main.cpp */; };
-		39BA33991F59BF3800F0FDCA /* PatternMatching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 39BA33971F59BF3800F0FDCA /* PatternMatching.cpp */; };
+		39BA33991F59BF3800F0FDCA /* AmazonAssessment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 39BA33971F59BF3800F0FDCA /* AmazonAssessment.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,8 +26,8 @@
 /* Begin PBXFileReference section */
 		39ADE58A1F55BBC900171063 /* AmazonAssessment */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AmazonAssessment; sourceTree = BUILT_PRODUCTS_DIR; };
 		39ADE58D1F55BBC900171063 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		39BA33971F59BF3800F0FDCA /* PatternMatching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = PatternMatching.cpp; sourceTree = "<group>"; };
-		39BA33981F59BF3800F0FDCA /* PatternMatching.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = PatternMatching.hpp; sourceTree = "<group>"; };
+		39BA33971F59BF3800F0FDCA /* AmazonAssessment.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = AmazonAssessment.cpp; sourceTree = "<group>"; };
+		39BA33981F59BF3800F0FDCA /* AmazonAssessment.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = AmazonAssessment.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				39ADE58D1F55BBC900171063 /* main.cpp */,
-				39BA33971F59BF3800F0FDCA /* PatternMatching.cpp */,
-				39BA33981F59BF3800F0FDCA /* PatternMatching.hpp */,
+				39BA33971F59BF3800F0FDCA /* AmazonAssessment.cpp */,
+				39BA33981F59BF3800F0FDCA /* AmazonAssessment.hpp */,
 			);
 			path = AmazonAssessment;
 			sourceTree = "<group>";
@@ -125,7 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39ADE58E1F55BBC900171063 /* main.cpp in Sources */,
-				39BA33991F59BF3800F0FDCA /* PatternMatching.cpp in Sources */,
+				39BA33991F59BF3800F0FDCA /* AmazonAssessment.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

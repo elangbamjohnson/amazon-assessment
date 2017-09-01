@@ -6,8 +6,8 @@
 //  Copyright © 2017 Elangbam, Johnson (J.). All rights reserved.
 //
 
-#ifndef PatternMatching_hpp
-#define PatternMatching_hpp
+#ifndef AmazonAssessment_hpp
+#define AmazonAssessment_hpp
 
 #include <stdio.h>
 #include <vector>
